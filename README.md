@@ -2,7 +2,6 @@
 - 👀 I’m interested in Data Science and Analytics
 - 🌱 I’m currently learning Data Science and Analytics
 - 📫 How to reach me ahireghanashyam28@gmail.com
-- 😄 Pronouns: He
 - ⚡ Fun fact: I love solving puzzles and exploring new technologies
 
 <!---
